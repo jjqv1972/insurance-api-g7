@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+joblib
+numpy
+scikit-learn==1.9.0
+sqlalchemy
+python-decouple
+mysqlclient
+psycopg2-binary
