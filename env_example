@@ -1,0 +1,1 @@
+DATABASE_URL=mysql+mysqldb://root:mysql2026$@localhost/db_insurance_api
